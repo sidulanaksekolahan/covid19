@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Retas Covid19</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">Dashboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="foo">Lorem Ipsum</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_data_statistik">Data Statistik</string>
+    <string name="title_data_confirm">Data Terkonfirmasi</string>
+    <string name="title_data_recovered">Data Sembuh</string>
+    <string name="title_data_death">Data Meninggal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_confirm">Terkonfirmasi</string>
+    <string name="title_recovered">Sembuh</string>
+    <string name="title_deaths">Meninggal</string>
+    <string name="title_case">Kasus baru</string>
+    <string name="title_live_data">Live Data</string>
+    <string name="title_about">Tentang</string>
+    <string name="title_name">Kelompok 4: Retas Covid19</string>
+    <string name="position">Android Developer</string>
+    <string name="title_description_apps">Contact Me?</string>
+    <string name="title_email">Kelompok 4: Retas Covid19</string>
+<!--    <string name="title_about_me">I just a software enginer with a billion dream, and I always hide in the dark so people don\'t know who I am, because I think people just enjoy my work without knowing who I am, because you don\'t need to be as handsome as you are, or how ugly you look, as long as your work is useful for others, you will be appreciated</string>-->
+    <string name="title_about_me">Aplikasi Berbasis Layanan Untuk Tracking Covid ini Dikembangkan untuk Keperluan Penyebaran Informasi Mengenai Jumlah Penderita Covid19 Baik Skala Nasional Maupun Global.</string>
+    <string name="title_about_mes">About Me?</string>
+    <string name="title_data_source">Data Source?</string>
+<!--    <string name="title_contact_detail">If you have something to ask, or offer me a job, you can contact me below</string>-->
+    <string name="title_contact_detail">Jika Anda Memiliki Pertanyaan, Ingin Menjadi Tenaga Sukarelawan Atau Menyumbangkan Alat dan Bahan Makanan, Dapat menghubungi</string>
+<!--    <string name="title_source_code">Can I have the source code for this apps?</string>-->
+    <string name="title_source_code"></string>
+    <string name="title_description_source_code">Of course, this application is open source and you may use, modify, and develop this application, you can download this source code at:</string>
+    <string name="title_covid19">Retas</string>
+    <string name="title_tracker">Covid 19</string>
+    <string name="title_data_indonesia">Data Indonesia</string>
+    <string name="title_description_maintence">Maaf sepertinya salah satu dari server provider data kami sedang perbaikan, jadi kami tidak dapat menampilkan data untuk sekarang, silahkan coba lagi nanti!</string>
+    <string name="title_maintence">Sedang dalam perbaikan...</string>
+    <string name="title_check_status">Cek Status</string>
+    <string name="title_country_search">Cari Negara</string>
+    <string name="title_province_search">Cari Provinsi</string>
+    <string name="title_sort_asc">Urutkan berdasarkan jumlah terkecil</string>
+    <string name="title_sort_desc">Urutkan berdasarkan jumlah terbesar</string>
+    <string name="title_sort_abjad">Urutkan berdasarkan abjad</string>
+    <string name="title_sort_asc_confirm">Urutkan berdasarkan jumlah positif terkecil</string>
+    <string name="title_sort_desc_confirm">Urutkan berdasarkan jumlah positif terbesar</string>
+    <string name="title_sort_asc_recovered">Urutkan berdasarkan jumlah sembuh terkecil</string>
+    <string name="title_sort_desc_recovered">Urutkan berdasarkan jumlah sembuh terbesar</string>
+    <string name="title_sort_asc_death">Urutkan berdasarkan jumlah meninggal terkecil</string>
+    <string name="title_sort_desc_death">Urutkan berdasarkan jumlah meninggal terbesar</string>
+    <string name="title_sort_asc_timeline">Urutkan berdasarkan data terlama</string>
+    <string name="title_sort_desc_timeline">Urutkan berdasarkan data terbaru</string>
+    <string name="title_search_date">Cari Tanggal</string>
+    <string name="title_ops">Ooopss...</string>
+    <string name="title_command_empty_search">Maaf, data yang kamu cari tidak ditemukan di server provider kami. Silahkan cari dengan kata kunci lain!</string>
+</resources>
